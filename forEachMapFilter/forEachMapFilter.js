@@ -233,6 +233,7 @@
 //             { name: 'Товар 6', price: 200 },
 //             ];
 
+
 //         const AveragePrice=(products)=>{
 //             let summ=0;
 //             products.forEach(element => {
